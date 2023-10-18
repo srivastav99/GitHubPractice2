@@ -1,6 +1,6 @@
 package githubPractice2TL;
 
-public class SubtractTwoNumbers {
+public class Subtract {
 
 	public static void main(String[] args) {
 		
