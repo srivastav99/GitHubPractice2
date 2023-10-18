@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\GitHub\PracProject2\D1\GitHubPractice2\githubPractice2TL\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4094533598.index
+4178233035.index
