@@ -12,5 +12,9 @@ public class Demo1 {
 		System.out.println("Welcome Add method");
 	}
 	
+	public void sub() {
+		System.out.println("Subtract method");
+	}
+	
 
 }
